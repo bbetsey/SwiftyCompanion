@@ -22,7 +22,7 @@ mobile, level, location, wallet, correction...)
 
 ## Bonus Part
 - [x] Use of custom cells - very recomended
-- [] Recreate token at expire date
+- [ ] Recreate token at expire date
 - [x] Design
 - [x] Scrollview
 
