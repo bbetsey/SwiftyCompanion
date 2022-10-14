@@ -1,7 +1,7 @@
 # Swifty Companion
 42 Ecole Project 📱
 
-> The aim of the project is to build an application that will retrieve the information of 42 student,
+> The aim of the project is to build an application that will retrieve the information of 42 student.
 
 - UIScrollView, UITableView, UICollectionView
 - ASWebAuthenticationSession, URLSession
@@ -26,4 +26,4 @@ mobile, level, location, wallet, correction...)
 - [x] Design
 - [x] Scrollview
 
-
+![](https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/simulator.gif)
