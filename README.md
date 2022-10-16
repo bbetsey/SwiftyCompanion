@@ -8,7 +8,7 @@
 - oauth2, 42 API
 
 <p float="left">
-	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/oauth2.png" width="200"/>
+	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/simulator.gif" width="200"/>
 	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/searchView.png" width="200"/>
 	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/detailView.png" width="200"/>
 </p>
@@ -30,5 +30,3 @@ mobile, level, location, wallet, correction...)
 - [ ] Recreate token at expire date
 - [x] Design
 - [x] Scrollview
-
-<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/simulator.gif" width="200"/>
