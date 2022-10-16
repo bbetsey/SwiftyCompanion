@@ -1,5 +1,5 @@
 # Swifty Companion
-42 Ecole Project 📱
+42 Ecole Project 📱 UIKit with Storyboards
 
 > The aim of the project is to build an application that will retrieve the information of 42 student.
 
@@ -7,6 +7,11 @@
 - ASWebAuthenticationSession, URLSession
 - oauth2, 42 API
 
+<p float="left">
+	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/oauth2.png" width="100"/>
+	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/searchView.png" width="100"/>
+	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/detailView.png" width="100"/>
+</p>
 
 ## Mandatory Part
 - [x] You must have at least 2 Views
