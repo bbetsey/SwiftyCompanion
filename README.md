@@ -31,4 +31,4 @@ mobile, level, location, wallet, correction...)
 - [x] Design
 - [x] Scrollview
 
-![](https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/simulator.gif)
+<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/simulator.gif" width=200"/>
