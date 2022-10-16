@@ -8,9 +8,9 @@
 - oauth2, 42 API
 
 <p float="left">
-	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/oauth2.png" width="100"/>
-	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/searchView.png" width="100"/>
-	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/detailView.png" width="100"/>
+	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/oauth2.png" width="200"/>
+	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/searchView.png" width="200"/>
+	<img src="https://github.com/bbetsey/SwiftyCompanion/blob/master/resources/detailView.png" width="200"/>
 </p>
 
 ## Mandatory Part
